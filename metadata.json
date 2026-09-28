@@ -1,0 +1,6 @@
+{
+  "name": "SignFlow - Multi-Page PDF E-Signer",
+  "description": "Secure, client-side PDF document signing tool with precision drag-and-drop signatures, multi-page support, and instant download.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
